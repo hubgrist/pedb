@@ -1,0 +1,3 @@
+PEDB
+
+This is an experimental database for relationship and investment management. I'm a noob. Expect bugs. Many, many bugs....
